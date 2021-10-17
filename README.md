@@ -2,11 +2,11 @@
 
 # Hello! I'm Tal!
 
-A web developer.
+I'm a fullstack web developer
 
 ## What am I working on?
 
-[Via](https://github.com/TalDef/via)
+[????? Dashboard](https://github.com/TalDef)
 
 ## What am I listening to?
 
