@@ -1,12 +1,12 @@
 <div align="center">
 
-# Hello! I'm Tal!
+# Hello! I'm vnex!
 
 I'm a fullstack web developer
 
 ## What am I working on?
 
-[Via](https://github.com/TalDef/via-bot)
+something interesting
 
 ## What am I listening to?
 
